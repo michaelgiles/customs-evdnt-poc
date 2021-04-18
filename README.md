@@ -6,5 +6,8 @@
 ### Serve the app
 `yarn start`
 
-Built on 
+### Go to 
+`http://localhost:8080/?debug=true`
+
+### Built on 
 https://github.com/marcofugaro/threejs-modern-app
